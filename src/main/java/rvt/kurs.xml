@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kursi>
+    
+    <kurss id="1">
+        <nosaukums>Java Programming</nosaukums>
+        <apraksts>Java pamatu apguve</apraksts>
+        <pasniedzejs>Vadims Malickis</pasniedzejs>
+        <ilgums>40</ilgums>
+        <studentu_skaits>25</studentu_skaits>
+        <limenis>iesaceji</limenis>
+    </kurss>
+
+    <kurss id="2">
+        <nosaukums>Web Development</nosaukums>
+        <apraksts>HTML un CSS izstrade</apraksts>
+        <pasniedzejs>Anna Ozola</pasniedzejs>
+        <ilgums>30</ilgums>
+        <studentu_skaits>18</studentu_skaits>
+        <limenis>videjs</limenis>
+    </kurss>
+
+    <kurss id="3">
+        <nosaukums>Datubazes</nosaukums>
+        <apraksts>SQL un datubazu veidosana</apraksts>
+        <pasniedzejs>Janis Berzins</pasniedzejs>
+        <ilgums>50</ilgums>
+        <studentu_skaits>20</studentu_skaits>
+        <limenis>profesionalis</limenis>
+    </kurss>
+
+</kursi>
